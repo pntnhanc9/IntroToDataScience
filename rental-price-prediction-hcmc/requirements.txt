@@ -1,0 +1,23 @@
+# Core
+pandas
+numpy
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+
+# Scraping
+requests
+beautifulsoup4
+lxml
+
+# Geocoding / utilities
+geopy
+tqdm
+python-dotenv
+
+# Notebooks
+jupyterlab
+ipykernel

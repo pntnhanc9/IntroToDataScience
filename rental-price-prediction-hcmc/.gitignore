@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env/
+.env*/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Testing / tooling caches
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Data (keep large files out of Git)
+/data/raw/
+/data/processed/
+/data/external/
+
+# Logs & temp
+logs/
+*.log
+/tmp/
+
+# Environment & secrets
+*.env
+.envrc
