@@ -26,9 +26,6 @@ Thumbs.db
 htmlcov/
 
 # Data (keep large files out of Git)
-/data/raw/
-/data/processed/
-/data/external/
 
 # Logs & temp
 logs/
