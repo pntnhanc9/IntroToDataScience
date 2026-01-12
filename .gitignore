@@ -35,3 +35,6 @@ logs/
 # Environment & secrets
 *.env
 .envrc
+
+/notebooks/eda/eda_v1.ipynb
+/notebooks/eda/eda_v2.ipynb
