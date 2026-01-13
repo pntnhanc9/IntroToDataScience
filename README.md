@@ -16,10 +16,7 @@ Dự án ứng dụng Khoa học dữ liệu (Data Science) để thu thập, l�
 │   ├── scraping/               # Code cào dữ liệu (Chotot, Homedy...)
 │   ├── cleaning/               # Code làm sạch dữ liệu
 │   ├── eda/                    # Khám phá dữ liệu (EDA) và trả lời câu hỏi
-│   ├── feature_engineering/    # Trích xuất đặc trưng
-│   ├── merge/                  # Gộp dữ liệu
 │   └── modeling/               # Huấn luyện và đánh giá mô hình
-├── reports/                    # Báo cáo, hình ảnh và slides
 ├── requirements.txt            # Danh sách thư viện cần cài đặt
 └── README.md                   # Hướng dẫn sử dụng
 ```
